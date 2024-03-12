@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24182703439",
+    "project_id": "chef-nexus",
+    "storage_bucket": "chef-nexus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24182703439:android:989f108988bb603294b13a",
+        "android_client_info": {
+          "package_name": "com.example.chef_nexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93FpYCx3D5mezn7QBJXZwuxeatudoh6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
